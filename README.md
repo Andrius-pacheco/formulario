@@ -1,2 +1,2 @@
 # formulario
-formulario de cadastro clientes.
+formulario de cadastro de clientes.
